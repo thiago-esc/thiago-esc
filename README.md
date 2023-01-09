@@ -10,7 +10,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus consequat s
 ![Lutador web](https://i0.wp.com/i.pinimg.com/originals/4b/0c/86/4b0c862d36e6d1b0b84f0810c2fe9a5c.jpg?resize=768%2C449&ssl=1)
 
 
-🔭 Atualmente faço parte da equipe ONEWEB Soluções Web, ocupando cargo de desenvolvedor front-end.
+
+Faço parte da equipe de programadores em uma empresa que oferece sistemas para web, no cargo de **desenvolvedor front-end**. E para esta função utilizamos as seguintes tecnologias:
+
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>      
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>   
+
+E além dessas, invisto minhas horas de estudos também em:
+     
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+
+          
+          
+          
+          
 
 
 🌱 I’m currently learning ...
