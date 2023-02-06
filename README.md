@@ -1,7 +1,7 @@
 > :construction: Projeto em construção :construction:
 
 
-### Olá! Senhoras e Senhores 👋
+### Olá, seja bem-vindo ao meu repositório no Github! 👋
 
 > Meu nome é Thiago Escobar, sou **lutador web**. Sim, é isso mesmo 😄. Já ouviu falar nessa profissão rsrs? Pois é...
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus consequat semper. Nulla dignissim, enim sed porttitor fermentum, sapien nulla tincidunt erat, id euismod velit tortor nec nisl. Sed at gravida lectus, eget elementum lacus. Morbi vitae vulputate eros. Sed cursus massa a laoreet convallis. Mauris diam enim, lacinia ac leo vitae, venenatis gravida augue. Sed consectetur risus velit. Mauris eget fringilla sem, ut tristique dui.
