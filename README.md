@@ -25,5 +25,10 @@ E além dessas, invisto minhas horas de estudos também em:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 
+#### Visite também meu perfil no Linkedin:
+<a href="www.linkedin.com/in/thiagoescobar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" /></a>
+          
+          
 
+Obrigado por visitar meu repositório!
 
