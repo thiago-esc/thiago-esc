@@ -4,10 +4,10 @@
 
 ### Olá, seja bem-vindo ao meu repositório no Github! 👋
 
-> Meu nome é Thiago Escobar, iniciei na carreira tech em 2019, sou desenvolvedor front-end. Já passei por estágio, uma experiência como PJ. Agora faço parte da equipe de desenvolvimento web em uma empresa com mais de 10 anos no mercado.
+> Meu nome é Thiago Escobar, iniciei na carreira tech em 2019, sou desenvolvedor front-end. Já passei por estágio, uma experiência como PJ e, na minha mais recente experiência, fiz parte da equipe de desenvolvimento web em uma empresa com mais de 10 anos no mercado.
  
  
-Para esta função utilizamos as seguintes tecnologias:
+Para esta função usávamos as seguintes tecnologias:
 <!--
 > Meu nome é Thiago Escobar, sou **lutador web**. Sim, é isso mesmo 😄. Já ouviu falar nessa profissão rsrs? Pois é...
 Brincadeiras à parte, "criei" esse título para ilustar minha trajetória até aqui, na carreira tech. Venho batalhando (e apanhando 😄) muito para me estabelecer na profissão.
